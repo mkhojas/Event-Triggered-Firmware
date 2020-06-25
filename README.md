@@ -1,7 +1,7 @@
 # Experimental validation of event-triggered stabilization over digital channels of plants with disturbances
 This repository is for Python codes of the simulations used in the following paper: 
 
-*[Mojtaba Hedayatpour](https://mojcris.github.io/), [Mohammad Javad Khojasteh](http://www.its.caltech.edu/~mjkhojas/), and Massimo Franceschetti, "Theory and implementation of event-triggered stabilization over digital channels," 
+*[Mojtaba Hedayatpour](https://mojcris.github.io/), [Mohammad Javad Khojasteh](http://www.its.caltech.edu/~mjkhojas/), and [Massimo Franceschetti](http://web.eng.ucsd.edu/~massimo/Home.html), "Theory and implementation of event-triggered stabilization over digital channels," 
 58th IEEE Conference on Decision and Control (CDC), 4183– 4188, 2019.* 
 
 ## Abstract
