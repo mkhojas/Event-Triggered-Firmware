@@ -1,8 +1,8 @@
  <!---  # Theory and implementation of event-triggered stabilization over digital channels --->
- # Exploiting timing information in event-triggered stabilization of linear systems with disturbances
+# Exploiting timing information in event-triggered stabilization of linear systems with disturbances
 This repository is for Python codes of the simulations used in the following paper: 
 
-*[Mojtaba Hedayatpour](https://mojcris.github.io/), [Mohammad Javad Khojasteh](http://www.its.caltech.edu/~mjkhojas/), and [Massimo Franceschetti](http://web.eng.ucsd.edu/~massimo/Home.html), "Exploiting timing information in event-triggered stabilization of linear systems with disturbances."
+[Mojtaba Hedayatpour](https://mojcris.github.io/), [Mohammad Javad Khojasteh](http://www.its.caltech.edu/~mjkhojas/), [Jorge Cortés](http://carmenere.ucsd.edu/jorge/), and [Massimo Franceschetti](http://web.eng.ucsd.edu/~massimo/Home.html), "Exploiting timing information in event-triggered stabilization of linear systems with disturbances."
  <!---  "Theory and implementation of event-triggered stabilization over digital channels," 
 58th IEEE Conference on Decision and Control (CDC), 4183– 4188, 2019.* --->
 
