@@ -1,4 +1,4 @@
-# Theory and implementation of event-triggered stabilization over digital channels
+ <!---  # Theory and implementation of event-triggered stabilization over digital channels --->
 This repository is for Python codes of the simulations used in the following paper: 
 
 *[Mojtaba Hedayatpour](https://mojcris.github.io/), [Mohammad Javad Khojasteh](http://www.its.caltech.edu/~mjkhojas/), and [Massimo Franceschetti](http://web.eng.ucsd.edu/~massimo/Home.html), "Theory and implementation of event-triggered stabilization over digital channels," 
